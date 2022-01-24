@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "moment": "^2.29.1"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "NodeJs Practice",
+  "main": "hello_nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ksg",
+  "license": "ISC"
+}
